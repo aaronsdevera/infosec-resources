@@ -10,8 +10,8 @@ List of resources to share with infosec friends/fiends
 5. **[Podcasts](#Podcasts)**
 6. **[Conferences](#Conferences)**
 7. **[Meetups](#Meetups)**
-8. **[News/Newsletters](#News/Newsletters)**
-9. **[Twitter Lists](#Twitter\%20Lists)**
+8. **[News/Newsletters](#newsnewsletters)**
+9. **[Twitter Lists](#twitter-lists)**
 10. **[Hiring](#Hiring)**
 
 # E-Learning
