@@ -3,16 +3,16 @@ List of resources to share with infosec friends/fiends
 
 # Contents
 
-**[E-Learning](#E-Learning)**
-**[Books](#Books)**
-**[Frameworks](#Frameworks)**
-**[Research](#Research)**
-**[Podcasts](#Podcasts)**
-**[Conferences](#Conferences)**
-**[Meetups](#Meetups)**
-**[News/Newsletters](#News/Newsletters)**
-**[Twitter Lists](#Twitter Lists)**
-**[Hiring](#Hiring)**
+1. **[E-Learning](#E-Learning)**
+2. **[Books](#Books)**
+3. **[Frameworks](#Frameworks)**
+4. **[Research](#Research)**
+5. **[Podcasts](#Podcasts)**
+6. **[Conferences](#Conferences)**
+7. **[Meetups](#Meetups)**
+8. **[News/Newsletters](#News/Newsletters)**
+9. **[Twitter Lists](#Twitter\%20Lists)**
+10. **[Hiring](#Hiring)**
 
 # E-Learning
 
@@ -80,6 +80,7 @@ List of resources to share with infosec friends/fiends
 - [Cybercrimeology](https://www.google.com/url?q=https://www.cybercrimeology.com/&sa=D&source=editors&ust=1626845903840000&usg=AOvVaw1DNSSajeYZioQGhxcCAYme)
 - [The Official Social Engineering Hub - Security Through Education](https://www.google.com/url?q=https://www.social-engineer.org/&sa=D&source=editors&ust=1626845903840000&usg=AOvVaw1briidpvwDUsLfH6n6V6hc)
 - [Security Weekly: The Security Podcast Network](https://www.google.com/url?q=https://securityweekly.com/&sa=D&source=editors&ust=1626845903840000&usg=AOvVaw2BmMWXHtLZPF2SbgOwV-vm)
+- [Darknet Diaries](https://darknetdiaries.com/)
 
 # Conferences
 
