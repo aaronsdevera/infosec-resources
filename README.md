@@ -23,6 +23,7 @@ List of resources to share with infosec friends/fiends
 - [Hack In The Box :: Keeping Knowledge Free for Over a Decade](https://www.google.com/url?q=https://www.hitb.org/&sa=D&source=editors&ust=1626845903823000&usg=AOvVaw2YGd5wQuF4fxNjHNVlejdH)
 - [TryHackMe | Cyber Security Training](https://www.google.com/url?q=https://tryhackme.com/&sa=D&source=editors&ust=1626845903824000&usg=AOvVaw3gZ0fRtshyHR4yPO7bGO8g)
 - [CTFtime.org / Events calendar](https://www.google.com/url?q=https://ctftime.org/calendar/&sa=D&source=editors&ust=1626845903824000&usg=AOvVaw0RhEJOC-3dMGjW9mZmeJL9)
+- [Google Bug Hunters University](https://bughunters.google.com/learn)
 
 # Books
 
