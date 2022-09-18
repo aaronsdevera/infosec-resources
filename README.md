@@ -94,11 +94,12 @@ List of resources to share with infosec friends/fiends
 
 # Conferences
 
-- [DEFCON - best hacker conference](https://www.google.com/url?q=https://defcon.org/&sa=D&source=editors&ust=1626845903841000&usg=AOvVaw2wdyH_z9ntlL5U69juOd-N)
-- [The Diana Initiative](https://www.google.com/url?q=https://www.dianainitiative.org/&sa=D&source=editors&ust=1626845903842000&usg=AOvVaw29YOjDb5rREp9h1COCOL6V)
-- [Botconf 2021-2022 | The Botnet Fighting Conference 9th edition](https://www.google.com/url?q=https://www.botconf.eu/&sa=D&source=editors&ust=1626845903842000&usg=AOvVaw2-u_M2s2Ye6TOyEM1JReuQ)
-- [Kaspersky Security Analyst Summit (SAS)](https://www.google.com/url?q=https://thesascon.com/&sa=D&source=editors&ust=1626845903842000&usg=AOvVaw3m_lhfs43IopBh_WRxYHM8)
-- [ShmooCon – Less Moose Than Ever](https://www.google.com/url?q=https://www.shmoocon.org/&sa=D&source=editors&ust=1626845903843000&usg=AOvVaw3j7WTZiymZ7lHmND_xOfIF)
+- [DEFCON](https://defcon.org) (Las Vegas) - it's the biggest hacker conference in the world and many people make a point of being there IRL every year. Definitely go.
+- [The Diana Initiative](https://www.dianainitiative.org) (Las Vegas, virtual) - a conference that puts a priority on historically underserved communities within infosec.
+- [Botconf](https://www.botconf.eu) (France) - highly technical conference with excellent rewview of threat research, particularly around cybercrime. 
+- [Kaspersky Security Analyst Summit (SAS)](https://thesascon.com) (Global) - popular conference with the global researcher community
+- [ShmooCon](https://www.shmoocon.org) (Washington D.C.) - all around good hacker con perfectly sized for good talks, workshops, and conversations.
+- [CyberWarCon](https://cyberwarcon.com) (Washington D.C.) - one-day conference with focus on cyber warfare, policy, state-sponsored cyber capabilities, and elections integrity.
 
 # Meetups
 
