@@ -32,29 +32,26 @@ List of resources to share with infosec friends/fiends
   - [Free PDF to download](https://repo.zenk-security.com/Programmation/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers,%20Forensic%20Analysts,%20Penetration%20Testers%20and%20Security%20Enginners.pdf)
 
 - BlackHat Python
-  - [Amazon](https://www.google.com/url?q=https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref%3Dpd_lpo_14_img_1/145-8126655-4782030?_encoding%3DUTF8%26pd_rd_i%3D1718501129%26pd_rd_r%3Dd9a7b1fc-3fe9-4006-ba69-accf75cc1c6c%26pd_rd_w%3DupVqf%26pd_rd_wg%3DDG8nq%26pf_rd_p%3Dfb1e266d-b690-4b4f-b71c-bd35e5395976%26pf_rd_r%3D08YXPBY6YFTM6GAGS7X3%26psc%3D1%26refRID%3D08YXPBY6YFTM6GAGS7X3&sa=D&source=editors&ust=1626845903826000&usg=AOvVaw2nKhoEa5dAIUBvg78dKYgw)
-  - [Free PDF to download](https://www.google.com/url?q=https://olinux.net/wp-content/uploads/2019/01/python.pdf&sa=D&source=editors&ust=1626845903827000&usg=AOvVaw3I7eBoMGPiWoddKHf_e5s0)
+  - [Amazon](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
+  - [Free PDF to download](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
 
 - Practical Malware Analysis
-  - [Practical Malware Analysis](https://www.google.com/url?q=https://nostarch.com/malware&sa=D&source=editors&ust=1626845903827000&usg=AOvVaw0cebtk1cnv0g98ALHMeqq8)
-  - [Free PDF to download](https://www.google.com/url?q=https://doc.lagout.org/security/Malware%20%26%20Forensics/Practical%20Malware%20Analysis.pdf&sa=D&source=editors&ust=1626845903828000&usg=AOvVaw3k3L5nd7P6ARmYT5uEU_Sh)
+  - [Practical Malware Analysis](https://nostarch.com/malware)
+  - [Free PDF to download](https://doc.lagout.org/security/Malware%20%26%20Forensics/Practical%20Malware%20Analysis.pdf)
 
 - Silence on the Wire
-  - [Amazon](https://www.google.com/url?q=https://www.amazon.com/Silence-Wire-Passive-Reconnaissance-Indirect/dp/1593270461&sa=D&source=editors&ust=1626845903828000&usg=AOvVaw0KLxQ5wnlQTL9BSJJm3ht_)
-  - [Free PDF to download](https://www.google.com/url?q=https://www.mediafire.com/file/yj3sbem5rbm43a2/Silence_on_the_Wire.pdf/file&sa=D&source=editors&ust=1626845903829000&usg=AOvVaw07nx95fuZL3l7sCbndDc9W)
+  - [Amazon](https://www.amazon.com/Silence-Wire-Passive-Reconnaissance-Indirect/dp/1593270461)
+  - [Free PDF to download](https://www.mediafire.com/file/yj3sbem5rbm43a2/Silence_on_the_Wire.pdf/file)
 
 - The Cuckoo’s Egg
-  - [Amazon](https://www.google.com/url?q=https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787&sa=D&source=editors&ust=1626845903829000&usg=AOvVaw0YBchf8-c1DatYQYCuJghW)
-  - [Free PDF to download](https://www.google.com/url?q=http://bayrampasamakina.com/tr/pdf_stoll_4_1.pdf&sa=D&source=editors&ust=1626845903830000&usg=AOvVaw1w6dL4yD9KKeMN8b4xa-Tw)
+  - [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
+  - [Free PDF to download](http://bayrampasamakina.com/tr/pdf_stoll_4_1.pdf)
 
 - Open Source Intelligence Techniques
-  - [Amazon](https://www.google.com/url?q=https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/1530508908&sa=D&source=editors&ust=1626845903830000&usg=AOvVaw0S8HYPySCUgqt_8Jd5b1-z)
+  - [Amazon](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B09PHL6Q4G/)
 
 - 2600 Magazine
-  - [2600 News | 2600](https://www.google.com/url?q=https://www.2600.com/&sa=D&source=editors&ust=1626845903831000&usg=AOvVaw0K4MdSD09vhiNYNeJWMcui)
-
-- Dark Territory: The Secret History of Cyber War
-  - [Amazon](https://www.google.com/url?q=https://www.amazon.com/dp/1476763259/ref%3Dcm_sw_r_cp_ep_dp_0nQ5ybHZPY0PT&sa=D&source=editors&ust=1626845903832000&usg=AOvVaw15rDmSf9aLq6q2YQGkNHzy)
+  - [2600 News | 2600](https://www.2600.com/)
 
 # Frameworks
 
