@@ -100,38 +100,60 @@ List of resources to share with infosec friends/fiends
 - [Kaspersky Security Analyst Summit (SAS)](https://thesascon.com) (Global) - popular conference with the global researcher community
 - [ShmooCon](https://www.shmoocon.org) (Washington D.C.) - all around good hacker con perfectly sized for good talks, workshops, and conversations.
 - [CyberWarCon](https://cyberwarcon.com) (Washington D.C.) - one-day conference with focus on cyber warfare, policy, state-sponsored cyber capabilities, and elections integrity.
+- [REcon](https://recon.cx) (Montreal) - Highly technical conference with a focus on reverse engineering.
+- [SummerCon](https://summercon.org) (NYC) - The longest running hacker conference in the USA.
+- [HushCon](https://hushcon.org) (NYC, Seattle) - a well-run, intentionally intimate conference that spans both US coasts.
 
 # Meetups
 
-- [Security BSides / FrontPage](https://www.google.com/url?q=http://www.securitybsides.com/w/page/12194156/FrontPage&sa=D&source=editors&ust=1626845903843000&usg=AOvVaw3-bfzXuGN-1sA41QWBaKqV)
-- [NYSEC (@nysecsec)](https://www.google.com/url?q=https://twitter.com/nysecsec&sa=D&source=editors&ust=1626845903844000&usg=AOvVaw3q0XzO_WXvBBZFuhdXbTvH)
-- [Empire Hacking](https://www.google.com/url?q=https://www.empirehacking.nyc/&sa=D&source=editors&ust=1626845903844000&usg=AOvVaw1VtY2OJ6OoOy-M29opb0Eo)
-- [NCC Group Security Open Forum - New York City (New York, NY)](https://www.google.com/url?q=https://www.meetup.com/NCCOpenForumNYC/&sa=D&source=editors&ust=1626845903845000&usg=AOvVaw14JeUjjZN7rOwTlGHs18zj)
+- [Security BSides](http://www.securitybsides.com) (Global) - A federation of security conferences and meetups that pop up in cities across the globe.
+- [NYSEC](https://twitter.com/nysecsec) (NYC) - long-running NYC monthly hacker meetup.
+- [Empire Hacking](https://www.empirehacking.nyc) (NYC) - bi-monthly meetup with a focus on security research.
+- [NCC Group Security Open Forum](https://www.meetup.com/NCCOpenForumNYC) (NYC) - semi-frequent meetup with a focus on security research.
+
+# Spaces and Orgs
+
+- [Hackerspaces.org](https://hackerspaces.org) (Global) - comprehensive community collection of hackerspaces all over the world.
+- [NYC Resistor](https://nycresistor.com) (NYC) - longtime hackerspace in NYC.
+- [Wonderville](https://wonderville.nyc) (NYC) - a space filled with DIY and india arcade games that supports hacker and community tech causes.
+- [Babycastles](https://www.babycastles.com) (NYC) - art and tech collective in NYC.
+- [HackerDojo](https://hackerdojo.org) (SF Bay Area) - hackerspace and co-working space for hackers and makers.
+- [DNA Lounge](https://www.dnalounge.com) (SF Bay Area) - hacker-run nightclub.
+- [c-base](http://c-base.org) (Berlin) - legendary hackerspace.
+- [Paralelni Polis](https://www.paralelnipolis.cz/en/o-nas/en/) (Prague) - a cryptoanarchy space that plays host to hackers, tech skeptics, and decentralization proponents.
+- [Rancho Electronico](https://ranchoelectronico.org) (CDMX) - hackerspace in Mexico City with many community programs.
+
 
 # News/Newsletters
 
-- [Krebs on Security – In-depth security news and investigation](https://www.google.com/url?q=http://krebsonsecurity.com/&sa=D&source=editors&ust=1626845903846000&usg=AOvVaw3XKf3VRrkrO_ZwggqTl2lj)
-- [Ars Technica](https://www.google.com/url?q=https://arstechnica.com/&sa=D&source=editors&ust=1626845903847000&usg=AOvVaw2I-fPZRpLQLZqXP87vK4oP)
-- [VICE Motherboard](https://www.google.com/url?q=https://motherboard.vice.com/&sa=D&source=editors&ust=1626845903847000&usg=AOvVaw3UPhVDJ9urtTijH1UioMXn)
-- [hackurls - news for hackers and programmers](https://www.google.com/url?q=https://hackurls.com/&sa=D&source=editors&ust=1626845903848000&usg=AOvVaw0ApTB6moTA04q02jLZLQ7f)
-- [Dark Reading | Security | Protect The Business - ...](https://www.google.com/url?q=https://www.darkreading.com/&sa=D&source=editors&ust=1626845903848000&usg=AOvVaw2SXG52XyI8bDouWPAaGl16)
-- [BleepingComputer.com - Technology news and support](https://www.google.com/url?q=https://www.bleepingcomputer.com/&sa=D&source=editors&ust=1626845903849000&usg=AOvVaw13MbxfQvCaRAC6IErXS2GA)
-- [Gizmodo | We come from the future](https://www.google.com/url?q=https://gizmodo.com/&sa=D&source=editors&ust=1626845903849000&usg=AOvVaw0knIK0CKrObK94vcr4Btn4)
-- [The CyberWire Daily Briefing](https://www.google.com/url?q=https://thecyberwire.com/newsletters/daily-briefing&sa=D&source=editors&ust=1626845903850000&usg=AOvVaw01Dl4rn8wrgzcfwhmEW2gj)
-- [Subscribe - Risky Business](https://www.google.com/url?q=https://risky.biz/subscribe/&sa=D&source=editors&ust=1626845903850000&usg=AOvVaw2lEYsbxypG-9nu-i9ea-p6)
-- [hatemail](https://www.google.com/url?q=https://hatemail.io&sa=D&source=editors&ust=1626845903850000&usg=AOvVaw1078jAxb8FbpfdO_-nYoOp)
-- [Subscribe to the Cyber Daily](https://www.google.com/url?q=https://go.recordedfuture.com/cyber-daily&sa=D&source=editors&ust=1626845903851000&usg=AOvVaw1LIqTLjaXKPwL9pLr1LUs0)
+- [Newsfeed](https://newsfeed.aaronsdevera.com) - News aggregrator
+- [Brutalist](https://brutalist.report) - News aggregrator
+- [Krebs on Security](http://krebsonsecurity.com)
+- [Ars Technica](https://arstechnica.com/)
+- [VICE Motherboard](https://motherboard.vice.com)
+- [Dark Reading](https://www.darkreading.com)
+- [BleepingComputer](https://www.bleepingcomputer.com)
+- [Gizmodo](https://gizmodo.com)
+- [The CyberWire Daily Briefing](https://thecyberwire.com/newsletters/daily-briefing)
+- [Risky Business](https://riskybiznews.substack.com)
+- [hatemail](https://hatemail.io)
+- [Recorded Future Cyber Daily](https://go.recordedfuture.com/cyber-daily)
 
 # Twitter Lists
 
-- [@cyb3rops/Cyber on Twitter](https://www.google.com/url?q=https://twitter.com/i/lists/201875823&sa=D&source=editors&ust=1626845903851000&usg=AOvVaw2I_IYVtTfBRjk6ePjVxfLL)
-- [https://twitter.com/i/lists/837628242760765440](https://www.google.com/url?q=https://twitter.com/i/lists/837628242760765440&sa=D&source=editors&ust=1626845903852000&usg=AOvVaw1zW2eMm_9uNLjculWffmpi)
-- [https://twitter.com/i/lists/4617087](https://www.google.com/url?q=https://twitter.com/i/lists/4617087&sa=D&source=editors&ust=1626845903852000&usg=AOvVaw0QnDwRrtsjEPaNMe0jzGoz)
-- [https://twitter.com/i/lists/867070537968865280](https://www.google.com/url?q=https://twitter.com/i/lists/867070537968865280&sa=D&source=editors&ust=1626845903853000&usg=AOvVaw0WawJi3YaKWYeIBEHeme_r)
-- [https://twitter.com/i/lists/1400194561499185157](https://www.google.com/url?q=https://twitter.com/i/lists/1400194561499185157&sa=D&source=editors&ust=1626845903853000&usg=AOvVaw0-jrES3ZaGQJhAeWRqWLlU)
+- [@cyb3rops/Cyber on Twitter](https://twitter.com/i/lists/201875823)
+- [@alexstamos: "Quotable Security Women"](https://twitter.com/i/lists/837628242760765440)
+- [@craignewell "Security People"](https://twitter.com/i/lists/4617087)
+- [@medus4_cdc "Sexurity"](https://twitter.com/i/lists/1400194561499185157)
+- [@nscrut_ "intelligent intel"](https://twitter.com/i/lists/1454734258480762888)
+- [@amac "internetlaw"](https://twitter.com/i/lists/128222)
+- [@kashhill "privacy tweeps"](https://twitter.com/i/lists/7221457)
+
 
 # Hiring
 
-- [whoishiring.io - Who is Hiring?](https://www.google.com/url?q=https://whoishiring.io/&sa=D&source=editors&ust=1626845903854000&usg=AOvVaw1SUvD7nefCnMeRIUgjP3DW)
-- [Software Engineer jobs at Y Combinator startups | Y Combinator's Work at a Startup](https://www.google.com/url?q=https://www.ycombinator.com/jobs/&sa=D&source=editors&ust=1626845903854000&usg=AOvVaw3i0WuQl5KnRusWHvhk9l2V)
-- [Ask HN: Who is hiring? (July 2021) | Hacker News](https://www.google.com/url?q=https://news.ycombinator.com/item?id%3D27699704&sa=D&source=editors&ust=1626845903855000&usg=AOvVaw0wdPYUOdfv24BVE-GZLeRT) (New thread posted monthly)
+- [whoishiring.io](https://whoishiring.io) - Tech and startup job board.
+- [Jobs at Y Combinator startups](https://www.ycombinator.com/jobs) - Openings at startups that are part of Y Combinator incubator.
+- [Ask HN: Who is hiring?](https://news.ycombinator.com/jobs) - Threads on Hacker News. Also, a "Who's Hiring" thread is posted monthly.
+- [Angel List](https://angel.co) - startup centric job board.
+- [Google](https://www.google.com/search?q=threat+intelligence+jobs) - Google search has actually improved quite a bit at searching for job listings.
