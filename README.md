@@ -16,20 +16,20 @@ List of resources to share with infosec friends/fiends
 
 # E-Learning
 
-- [Reverse Engineering 101 by Malware Unicorn](https://www.google.com/url?q=https://malwareunicorn.org/workshops/re101.html%230&sa=D&source=editors&ust=1626845903822000&usg=AOvVaw04a5QN0BUQTK2pmyz54AnF)
-- [Grow with Google: Learn Digital Skills, Prepare for Jobs, Grow Your Business](https://www.google.com/url?q=https://grow.google/&sa=D&source=editors&ust=1626845903822000&usg=AOvVaw3ZlNT_6OjsM124rJoMSV91)
-- [AWS Certification - Validate AWS Cloud Skills - Get AWS Certified](https://www.google.com/url?q=https://aws.amazon.com/certification/&sa=D&source=editors&ust=1626845903823000&usg=AOvVaw2flrc-lMak90UURzeHkSxD)
-- [Codecademy: Learn to Code - for Free](https://www.google.com/url?q=https://www.codecademy.com/&sa=D&source=editors&ust=1626845903823000&usg=AOvVaw2KRCo445SqHI5nhjZ8Yi57)
-- [Hack In The Box :: Keeping Knowledge Free for Over a Decade](https://www.google.com/url?q=https://www.hitb.org/&sa=D&source=editors&ust=1626845903823000&usg=AOvVaw2YGd5wQuF4fxNjHNVlejdH)
-- [TryHackMe | Cyber Security Training](https://www.google.com/url?q=https://tryhackme.com/&sa=D&source=editors&ust=1626845903824000&usg=AOvVaw3gZ0fRtshyHR4yPO7bGO8g)
-- [CTFtime.org / Events calendar](https://www.google.com/url?q=https://ctftime.org/calendar/&sa=D&source=editors&ust=1626845903824000&usg=AOvVaw0RhEJOC-3dMGjW9mZmeJL9)
-- [Google Bug Hunters University](https://bughunters.google.com/learn)
+- [Reverse Engineering 101 by Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0) - Free online workshops from a top reverse engineer.
+- [Grow with Google](https://grow.google/) - Google's online learning platform for learning tech skills.
+- [AWS Certification](https://aws.amazon.com/certification/) - Classes and certifications for using AWS services and products.
+- [Codecademy](https://www.codecademy.com/) - Free online programming education platform.
+- [Hack In The Box](https://www.hitb.org/) - Free online offensive security platform.
+- [TryHackMe | Cyber Security Training](https://tryhackme.com/) - Free online offensive security platform.
+- [CTFtime.org / Events calendar](https://ctftime.org/calendar/) - List of upcoming Capture the Flag competitions.
+- [Google Bug Hunters University](https://bughunters.google.com/learn) - Free online learning for offensive security and vulnerability research, mostly aligned with Google products and services.
 
 # Books
 
 - Violent Python
-  - [Amazon](https://www.google.com/url?q=https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579&sa=D&source=editors&ust=1626845903825000&usg=AOvVaw37E89Ib1oBLOX7zGckQuF0)
-  - [Free PDF to download](https://www.google.com/url?q=https://repo.zenk-security.com/Programmation/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers,%20Forensic%20Analysts,%20Penetration%20Testers%20and%20Security%20Enginners.pdf&sa=D&source=editors&ust=1626845903825000&usg=AOvVaw0NfpIuBLZnKODLyAId_CW8)
+  - [Amazon](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+  - [Free PDF to download](https://repo.zenk-security.com/Programmation/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers,%20Forensic%20Analysts,%20Penetration%20Testers%20and%20Security%20Enginners.pdf)
 
 - BlackHat Python
   - [Amazon](https://www.google.com/url?q=https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/ref%3Dpd_lpo_14_img_1/145-8126655-4782030?_encoding%3DUTF8%26pd_rd_i%3D1718501129%26pd_rd_r%3Dd9a7b1fc-3fe9-4006-ba69-accf75cc1c6c%26pd_rd_w%3DupVqf%26pd_rd_wg%3DDG8nq%26pf_rd_p%3Dfb1e266d-b690-4b4f-b71c-bd35e5395976%26pf_rd_r%3D08YXPBY6YFTM6GAGS7X3%26psc%3D1%26refRID%3D08YXPBY6YFTM6GAGS7X3&sa=D&source=editors&ust=1626845903826000&usg=AOvVaw2nKhoEa5dAIUBvg78dKYgw)
