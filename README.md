@@ -28,48 +28,60 @@ List of resources to share with infosec friends/fiends
 # Books
 
 - Violent Python
+  - Excellent hands-on walkthrough into offesnive security research in Python.
   - [Amazon](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
   - [Free PDF to download](https://repo.zenk-security.com/Programmation/Violent%20Python%20-%20A%20Cookbook%20for%20Hackers,%20Forensic%20Analysts,%20Penetration%20Testers%20and%20Security%20Enginners.pdf)
 
 - BlackHat Python
+  - Excellent hands-on walkthrough into offesnive security research in Python.
   - [Amazon](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129)
   - [Free PDF to download](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
 
 - Practical Malware Analysis
+  - Great beginner's guide into malware analysis, with many important philosophical and procedural details as well.
   - [Practical Malware Analysis](https://nostarch.com/malware)
   - [Free PDF to download](https://doc.lagout.org/security/Malware%20%26%20Forensics/Practical%20Malware%20Analysis.pdf)
 
 - Silence on the Wire
+  - An all-time favorite. All about internet signals analysis and detection.
   - [Amazon](https://www.amazon.com/Silence-Wire-Passive-Reconnaissance-Indirect/dp/1593270461)
   - [Free PDF to download](https://www.mediafire.com/file/yj3sbem5rbm43a2/Silence_on_the_Wire.pdf/file)
 
 - The Cuckoo’s Egg
+  - Very enjoyable read documenting an early example of threat hunting.
   - [Amazon](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
   - [Free PDF to download](http://bayrampasamakina.com/tr/pdf_stoll_4_1.pdf)
 
 - Open Source Intelligence Techniques
+  - Ultimate guide by one of the all-time greats in Open Source Intelligence (OSINT).
   - [Amazon](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/B09PHL6Q4G/)
 
 - 2600 Magazine
+  - Long-time hacker magazine staple.
   - [2600 News | 2600](https://www.2600.com/)
 
-# Frameworks
+# Frameworks and Concepts
 
-- [OWASP Foundation | Open Source Foundation for Application Security](https://www.google.com/url?q=https://owasp.org/&sa=D&source=editors&ust=1626845903832000&usg=AOvVaw10dpKPgaypOpbrhthcmp0w)
-- [Kill chain](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Kill_chain&sa=D&source=editors&ust=1626845903833000&usg=AOvVaw0ZcQr-oIU_b__ByKEoWQ22)
-- [MITRE ATT&CK®](https://www.google.com/url?q=https://attack.mitre.org/&sa=D&source=editors&ust=1626845903834000&usg=AOvVaw20dEbwIWNHW_fmzhaW3fCb)
-- [Cyber threat hunting](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Cyber_threat_hunting&sa=D&source=editors&ust=1626845903834000&usg=AOvVaw3uFObuB0lqrZ5qqubidjyb)
+- [OWASP Foundation](https://owasp.org/www-project-top-ten/) - Web Apps remain one of the most common attack surfaces out there. Be sure to know the top 10 affecting risks.
+- [Kill chain](https://en.wikipedia.org/wiki/Kill_chain) - A concept appropriated from military research intended to stratify the stages of an attack.
+- [MITRE ATT&CK®](https://attack.mitre.org/) - Expanding greatly upon the killchain, ATT&CK is a taxonomy for threat behavior and malicious behavior.
+- [Cyber threat hunting](https://en.wikipedia.org/wiki/Cyber_threat_hunting) - proactive cyber defense operations intended to identify and remediate risks before they're a problem.
+- [Dwell Time](https://www.optiv.com/cybersecurity-dictionary/dwell-time#:~:text=Dwell%20time%20represents%20the%20length,is%20usually%20measured%20in%20days.) - Metric to capture how long between discovery and remediation did a defensive cyber team "dwell" on the incident. "Mean Dwell Time" is often a metric used by Security Operations Center (SOC) managers to measure the capability of their team to triage incidents.
+ - [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)) - social and psychological manipulation with the intent of getting a victim to divulge secrets. Often used in cyberattacks.
+ - [Cyber Threat Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) - Intelligence capabilities applied towards the mission of countering cyber threats. May include collections, analysis, engineering, human intelligence, signals intelligence, OSINT, and more.
 
-# Research
+# Cool Research to Understand
 
-- [TLS Fingerprinting with JA3 and JA3S | by John Althouse](https://www.google.com/url?q=https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967&sa=D&source=editors&ust=1626845903835000&usg=AOvVaw0g8bx6celIqNhHb9TGGcM2)
-- [OWASP/Honeypot-Project](https://www.google.com/url?q=https://github.com/OWASP/Honeypot-Project&sa=D&source=editors&ust=1626845903835000&usg=AOvVaw0Id3KRixJQGxXKOC2n3afM)
-- [MISP/MISP: MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)](https://www.google.com/url?q=https://github.com/MISP/MISP&sa=D&source=editors&ust=1626845903836000&usg=AOvVaw2cjyLMwGNfNhqRkOyIPgbT)
-- [MalwareBazaar | Malware sample exchange](https://www.google.com/url?q=https://bazaar.abuse.ch/&sa=D&source=editors&ust=1626845903837000&usg=AOvVaw3zZod34U5MTkGq3JFq9R8A)
-- [Google Project Zero](https://www.google.com/url?q=https://googleprojectzero.blogspot.com/&sa=D&source=editors&ust=1626845903837000&usg=AOvVaw0_xBbPzE7zRgYjAk98KsEP)
-- [Cisco Talos Intelligence Group - Comprehensive Threat Intelligence](https://www.google.com/url?q=https://blog.talosintelligence.com/&sa=D&source=editors&ust=1626845903837000&usg=AOvVaw0Smk43FD9-FnEM_Gbfw2BS)
-- [The Citizen Lab - University of Toronto](https://www.google.com/url?q=https://citizenlab.ca/&sa=D&source=editors&ust=1626845903838000&usg=AOvVaw0_5K8Aitlx7IgUyapF_8jt)
-- [Bellingcat](https://www.google.com/url?q=https://www.bellingcat.com/&sa=D&source=editors&ust=1626845903838000&usg=AOvVaw0Els73rxX1pJJe9m_bUOUz)
+- [TLS Fingerprinting with JA3 and JA3S | by John Althouse](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/)
+- [OWASP/Honeypot-Project](https://github.com/OWASP/Honeypot-Project)
+- [MISP/MISP: MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
+- [MalwareBazaar | Malware sample exchange](https://bazaar.abuse.ch/)
+- [Google Project Zero](https://googleprojectzero.blogspot.com/)
+- [Cisco Talos Intelligence Group - Comprehensive Threat Intelligence](https://blog.talosintelligence.com/)
+- [The Citizen Lab - University of Toronto](https://citizenlab.ca/)
+- [Bellingcat](https://www.bellingcat.com/)
+- [DDoSecrets](https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets)
+- [VX Underground](https://www.vx-underground.org/)
 
 # Podcasts
 
