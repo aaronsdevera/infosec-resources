@@ -3,16 +3,17 @@ List of resources to share with infosec friends/fiends
 
 # Contents
 
-1. **[E-Learning](#E-Learning)**
-2. **[Books](#Books)**
-3. **[Frameworks](#Frameworks)**
-4. **[Research](#Research)**
-5. **[Podcasts](#Podcasts)**
-6. **[Conferences](#Conferences)**
-7. **[Meetups](#Meetups)**
-8. **[News/Newsletters](#newsnewsletters)**
-9. **[Twitter Lists](#twitter-lists)**
-10. **[Hiring](#Hiring)**
+1. **[E-Learning](#e-learning)**
+2. **[Books](#books)**
+3. **[Frameworks and Concepts](#frameworks-and-concepts)**
+4. **[Research](#research)**
+5. **[Podcasts](#podcasts)**
+6. **[Conferences](#conferences)**
+7. **[Meetups](#meetups)**
+8. **[Spaces and Orgs](#spaces-and-orgs)**
+9. **[News/Newsletters](#newsnewsletters)**
+10. **[Twitter Lists](#twitter-lists)**
+111. **[Hiring](#hiring)**
 
 # E-Learning
 
@@ -70,7 +71,8 @@ List of resources to share with infosec friends/fiends
  - [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)) - social and psychological manipulation with the intent of getting a victim to divulge secrets. Often used in cyberattacks.
  - [Cyber Threat Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) - Intelligence capabilities applied towards the mission of countering cyber threats. May include collections, analysis, engineering, human intelligence, signals intelligence, OSINT, and more.
 
-# Cool Research to Understand
+# Research
+Cool research to understand.
 
 - [TLS Fingerprinting with JA3 and JA3S | by John Althouse](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/)
 - [OWASP/Honeypot-Project](https://github.com/OWASP/Honeypot-Project)
@@ -85,12 +87,13 @@ List of resources to share with infosec friends/fiends
 
 # Podcasts
 
-- [Risky Business - Risky Business](https://www.google.com/url?q=https://risky.biz/&sa=D&source=editors&ust=1626845903839000&usg=AOvVaw20cYKEzkzPUVspS_zqhaAV)
-- [CyberWire: Your Cybersecurity News Connection - Cyber News](https://www.google.com/url?q=https://thecyberwire.com/&sa=D&source=editors&ust=1626845903839000&usg=AOvVaw3DqOMqpsxcKcpD4uamlY5z)
-- [Cybercrimeology](https://www.google.com/url?q=https://www.cybercrimeology.com/&sa=D&source=editors&ust=1626845903840000&usg=AOvVaw1DNSSajeYZioQGhxcCAYme)
-- [The Official Social Engineering Hub - Security Through Education](https://www.google.com/url?q=https://www.social-engineer.org/&sa=D&source=editors&ust=1626845903840000&usg=AOvVaw1briidpvwDUsLfH6n6V6hc)
-- [Security Weekly: The Security Podcast Network](https://www.google.com/url?q=https://securityweekly.com/&sa=D&source=editors&ust=1626845903840000&usg=AOvVaw2BmMWXHtLZPF2SbgOwV-vm)
+- [Risky Business - Risky Business](https://risky.biz)
+- [CyberWire: Your Cybersecurity News Connection - Cyber News](https://thecyberwire.com)
+- [Cybercrimeology](https://www.cybercrimeology.com)
+- [Security Weekly](https://securityweekly.com)
 - [Darknet Diaries](https://darknetdiaries.com/)
+- [VICE Cyber podcast](https://www.vice.com/en/topic/cyber-podcast)
+- [Lawfare podcasts](https://www.lawfareblog.com/topic/podcasts)
 
 # Conferences
 
