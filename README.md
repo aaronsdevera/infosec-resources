@@ -70,7 +70,7 @@ List of resources to share with infosec friends/fiends
 - [Dwell Time](https://www.optiv.com/cybersecurity-dictionary/dwell-time#:~:text=Dwell%20time%20represents%20the%20length,is%20usually%20measured%20in%20days.) - Metric to capture how long between discovery and remediation did a defensive cyber team "dwell" on the incident. "Mean Dwell Time" is often a metric used by Security Operations Center (SOC) managers to measure the capability of their team to triage incidents.
  - [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)) - social and psychological manipulation with the intent of getting a victim to divulge secrets. Often used in cyberattacks.
  - [Cyber Threat Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) - Intelligence capabilities applied towards the mission of countering cyber threats. May include collections, analysis, engineering, human intelligence, signals intelligence, OSINT, and more.
-  - [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)[archive](https://archive.ph/c2qCZ) - Excellent blog post covering major modern design concepts for SaaS apps.
+  - [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb) [[archive]](https://archive.ph/c2qCZ) - Excellent blog post covering major modern design concepts for SaaS apps.
 
 # Research
 Cool research to understand.
