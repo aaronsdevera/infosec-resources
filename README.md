@@ -71,6 +71,9 @@ List of resources to share with infosec friends/fiends
  - [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)) - social and psychological manipulation with the intent of getting a victim to divulge secrets. Often used in cyberattacks.
  - [Cyber Threat Intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) - Intelligence capabilities applied towards the mission of countering cyber threats. May include collections, analysis, engineering, human intelligence, signals intelligence, OSINT, and more.
   - [The self-taught UI/UX designer roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb) [[archive]](https://archive.ph/c2qCZ) - Excellent blog post covering major modern design concepts for SaaS apps.
+  - [Lance James - Advanced Persistent Marketing: Demystifying APT's and Cyber Attacks](https://www.youtube.com/watch?v=1UK99bk7i3o) - One of my favorite talks about threat intelligence.
+  - [TR17 - Surprise Bitches! - The Grugq ](https://www.youtube.com/watch?v=wP2J9aYM6Oo) - Good talk on the convergence of cyber threat intelligence and the conventional intelligence lifecycle
+  - [Intelligence Communities in Collision - JD Work](https://www.youtube.com/watch?v=VCvTFXZQzDU&t=785s) - Another great talk on where cyber threat intelligence collides with conventional intelligence.
 
 # Research
 Cool research to understand.
